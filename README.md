@@ -28,15 +28,3 @@
 
 ```
 
-
-
-# TODO 
-- Minio Add
-- Minio Config  Endpooint 
-- Minio get file Endpoint 
-- minio upload parsed file 
-
-
-
-project owierview de http://127.0.0.1:5000/apps/tasks/listview# bu linki kullan ek olarak 
-http://127.0.0.1:5000/apps/todo bunu da projenin icine yerlestir. 
